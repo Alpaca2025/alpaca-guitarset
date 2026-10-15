@@ -1,0 +1,49 @@
+{
+  "0": {
+    "name": "jazz",
+    "track_tags": [
+      "jz.guit"
+    ],
+    "midi_programs": [
+      27
+    ]
+  },
+  "1": {
+    "name": "nylon",
+    "track_tags": [
+      "n.guit"
+    ],
+    "midi_programs": [
+      25
+    ]
+  },
+  "2": {
+    "name": "distortion",
+    "track_tags": [
+      "dist.guit"
+    ],
+    "midi_programs": [
+      31
+    ]
+  },
+  "3": {
+    "name": "overdriven",
+    "track_tags": [
+      "od.guit"
+    ],
+    "midi_programs": [
+      30
+    ]
+  },
+  "4": {
+    "name": "bass",
+    "track_tags": [
+      "a.bs",
+      "fl.bs"
+    ],
+    "midi_programs": [
+      33,
+      36
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "1": {
+    "name": "64th",
+    "beats": 0.0625
+  },
+  "2": {
+    "name": "dotted 64th",
+    "beats": 0.09375
+  },
+  "3": {
+    "name": "32nd",
+    "beats": 0.125
+  },
+  "4": {
+    "name": "dotted 32nd",
+    "beats": 0.1875
+  },
+  "5": {
+    "name": "16th",
+    "beats": 0.25
+  },
+  "6": {
+    "name": "dotted 16th",
+    "beats": 0.375
+  },
+  "7": {
+    "name": "8th",
+    "beats": 0.5
+  },
+  "8": {
+    "name": "dotted 8th",
+    "beats": 0.75
+  },
+  "9": {
+    "name": "quarter",
+    "beats": 1.0
+  },
+  "10": {
+    "name": "dotted quarter",
+    "beats": 1.5
+  },
+  "11": {
+    "name": "half",
+    "beats": 2.0
+  },
+  "12": {
+    "name": "dotted half",
+    "beats": 3.0
+  },
+  "13": {
+    "name": "whole",
+    "beats": 4.0
+  },
+  "14": {
+    "name": "dotted whole",
+    "beats": 6.0
+  }
+}
